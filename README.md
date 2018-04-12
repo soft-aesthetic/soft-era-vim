@@ -44,7 +44,7 @@ theme like:
 let g:airline_theme = 'softera'
 ```
 
-If you’re using [iTerm2](https://www.iterm2.com/), it’s *highly* recommended
+If you’re running Vim in [iTerm2](https://www.iterm2.com/), it’s *highly* recommended
 to have a look at [soft era for iTerm2](https://github.com/soft-aesthetic/soft-era-iterm2).
 
 ## Roadmap
