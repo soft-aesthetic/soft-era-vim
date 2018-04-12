@@ -13,8 +13,10 @@ Install manually, or using the package manager of your choice:
 ```viml
 " vim-plug
 Plug 'soft-aesthetic/soft-era-vim'
+
 " NeoBundle
 NeoBundle 'soft-aesthetic/soft-era-vim'
+
 " Vundle
 Plugin 'soft-aesthetic/soft-era-vim'
 ```
@@ -54,7 +56,7 @@ to have a look at [soft era for iTerm2](https://github.com/soft-aesthetic/soft-e
 * [ ] Fugitive syntax
 * [ ] Git syntax
 * [ ] Vim help syntax
-* { ] HTML syntax
+* [ ] HTML syntax
 * [ ] JavaScript syntax
 * [ ] JSON sytax
 * [ ] Markdown syntax
