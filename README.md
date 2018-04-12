@@ -4,7 +4,7 @@
 
 🌸 Light pastel syntax theme for cozy, cute coding & typing. 🌱
 
-![soft era syntax theme screenshot](screenshot.png)
+![soft era syntax theme screenshot](screenshot.jpg)
 
 ## Installation
 
