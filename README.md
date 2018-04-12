@@ -30,7 +30,7 @@ endif
 " Neovim 0.1.3 or 0.1.4
 let $NVIM_TUI_ENABLE_TRUE_COLOR=1
 
-" Theme
+# Enable syntax highlighting and set colorscheme
 syntax enable
 colorscheme tender
 ```
