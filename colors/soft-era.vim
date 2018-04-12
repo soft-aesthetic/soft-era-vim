@@ -2,8 +2,7 @@
 " soft-era
 " 
 " URL: https://github.com/ngscheurich/soft-era-vim
-" Author: Colors &lt;@animalphase&gt; / Port &lt;@ngscheurich&gt;
-" License: MIT
+" Author: Colors <@animalphase> / Port <@ngscheurich>
 " Last Change: 2018/04/12 17:52
 " ===============================================================
 
