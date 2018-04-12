@@ -1,0 +1,82 @@
+# BASE UI
+ColorColumn: '- bgDarker'
+Conceal: 'debug1 debug2'
+Cursor: 'debug1 debug2'
+CursorIM: 'debug1 debug2'
+CursorColumn: '- bgDarker'
+CursorLine: '- bgDarker'
+CursorLineNr: 'purpleDarker'
+Directory: 'green'
+DiffAdd: '- greenFaded'
+DiffChange: '- yellow'
+DiffDelete: '- redFaded'
+DiffText: '- - r'
+ErrorMsg: 'red - r'
+VertSplit: 'bg bg'
+Folded: 'textFaded'
+FoldColumn: 'debug1 debug2'
+SignColumn: 'debug1 debug2'
+IncSearch: '- salmon u'
+LineNr: 'textFaded'
+MatchParen: 'blue - b'
+ModeMsg: 'debug1 debug2'
+MoreMsg: 'debug1 debug2'
+NonText: 'textEmphasis'
+Normal: 'text bg'
+PMenu: 'purpleDarkest purpleLight'
+PMenuSel: 'purpleDarkest purpleDefault'
+PmenuSbar: 'debug1 debug2'
+PmenuThumb: 'debug1 debug2'
+Question: 'debug2'
+Search: '- textFaded u'
+SpecialKey: 'debug1 debug2'
+SpellBad: 'debug1 debug2'
+SpellLocal: 'debug1 debug2'
+SpellCap: 'debug1 debug2'
+SpellRare: 'debug1 debug2'
+StatusLine: 'debug1 debug2'
+StatusLineNC: 'debug1 debug2'
+TabLine: 'debug1 debug2'
+TabLineFill: 'debug1 debug2'
+TabLineSel: 'debug1 debug2'
+Title: 'debug1 debug2'
+Visual: '- purpleLight'
+VisualNOS: 'debug1 debug2'
+WarningMsg: 'debug1 debug2'
+WildMenu: 'debug1 debug2'
+# BASE SYNTAX
+Comment: 'lightGray .'
+Constant: 'textDark'
+String: 'textDark bgDarker' # Constant
+Character: 'textDark bgDarker' # Constant
+Boolean: 'hotPink - b' # Constant
+Number: 'textDark bgDarker' # Constant
+Float: 'textDark bgDarker' # Constant
+Identifier: 'violet'
+Function: 'green' # Identifier
+Statement: 'blue - b'
+Conditional: 'blue - b' # Statement
+Repeat: 'blue - b' # Statement
+Label: 'blue - b' # Statement
+Operator: 'hotPink - b' # Statement
+Keyword: 'blue - b' # Statement
+Exception: 'blue - b' # Statement
+PreProc: 'blue - b'
+Include: 'blue - b' # PreProc
+Define: 'blue - b' # PreProc
+Macro: 'blue - b' # PreProc
+PreCondit: 'blue - b' # PreProc
+Type: 'purpleDarker'
+StorageClass: 'purpleDarker' # Type
+Structure: 'purpleDarker' # Type
+Typedef: 'purpleDarker' # Type
+Special: 'purpleDefault - b'
+SpecialChar: 'textDark' # Special
+Tag: 'textDark' # Special
+Delimiter: 'textDark' # Special
+SpecialComment: 'textDark' # Special
+Debug: 'textDark' # Special
+Underlined: '- - u'
+Ignore: ''
+Error: 'white red'
+Todo: 'redFaded - b'
