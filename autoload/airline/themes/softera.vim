@@ -1,8 +1,8 @@
 " ============================================================
 " softera
 " 
-" URL:https://github.com/ngscheurich/soft-era-vim
-" Author: Colors &lt;@animalphase&gt; / Port &lt;@ngscheurich&gt;
+" URL:https://github.com/soft-aesthetic/soft-era-vim
+" Author: Colors <@animalphase> / Port <@ngscheurich>
 " License: MIT
 " Last Change: 2018/04/12 17:52
 " ============================================================
