@@ -1,0 +1,13 @@
+name: 'soft-era'
+version: '0.1.0'
+author: 'Colors <@animalphase> / Port <@ngscheurich>'
+url: 'https://github.com/soft-aesthetic/soft-era-vim'
+description: 'Light pastel syntax theme for soft, warm, cozy, cute coding.'
+colorschemes:
+  - name: 'soft-era'
+    background: 'light'
+    palette: 'soft-era'
+airline:
+  - name: 'softera'
+    palette: 'soft-era'
+    style: 'regular'
