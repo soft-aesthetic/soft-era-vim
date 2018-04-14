@@ -34,7 +34,7 @@ let $NVIM_TUI_ENABLE_TRUE_COLOR=1
 
 # Enable syntax highlighting and set colorscheme
 syntax enable
-colorscheme tender
+colorscheme soft-era
 ```
 
 You can use the included [vim-airline](https://github.com/vim-airline/vim-airline)
