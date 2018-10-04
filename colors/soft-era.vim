@@ -3,7 +3,7 @@
 "
 " URL: https://github.com/soft-aesthetic/soft-era-vim
 " Author: Colors <@animalphase> / Port <@ngscheurich>
-" Last Change: 2018/10/04 20:25
+" Last Change: 2018/10/04 21:16
 " ===============================================================
 
 set background=light
@@ -15,7 +15,7 @@ let g:colors_name="soft-era"
 
 hi ColorColumn guifg=NONE ctermfg=NONE guibg=#f2edec ctermbg=255 gui=NONE cterm=NONE
 hi Conceal guifg=#ff0000 ctermfg=9 guibg=#00ff00 ctermbg=10 gui=NONE cterm=NONE
-hi Cursor guifg=#ff0000 ctermfg=9 guibg=#00ff00 ctermbg=10 gui=NONE cterm=NONE
+hi Cursor guibg=#eeaabe ctermbg=217 gui=NONE cterm=NONE
 hi CursorIM guifg=#ff0000 ctermfg=9 guibg=#00ff00 ctermbg=10 gui=NONE cterm=NONE
 hi CursorColumn guifg=NONE ctermfg=NONE guibg=#f2edec ctermbg=255 gui=NONE cterm=NONE
 hi CursorLine guifg=NONE ctermfg=NONE guibg=#f2edec ctermbg=255 gui=NONE cterm=NONE
