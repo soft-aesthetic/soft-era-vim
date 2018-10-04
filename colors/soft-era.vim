@@ -3,7 +3,7 @@
 "
 " URL: https://github.com/soft-aesthetic/soft-era-vim
 " Author: Colors <@animalphase> / Port <@ngscheurich>
-" Last Change: 2018/10/04 21:16
+" Last Change: 2018/10/04 22:04
 " ===============================================================
 
 set background=light
@@ -53,7 +53,7 @@ hi StatusLineNC guifg=#ff0000 ctermfg=9 guibg=#00ff00 ctermbg=10 gui=NONE cterm=
 hi TabLine guifg=#a29acb ctermfg=140 guibg=#cfc8f4 ctermbg=189 gui=NONE cterm=NONE
 hi TabLineFill guifg=#a29acb ctermfg=140 guibg=#cfc8f4 ctermbg=189 gui=NONE cterm=NONE
 hi TabLineSel guifg=#948484 ctermfg=102 guibg=#f9f5f5 ctermbg=255 gui=NONE cterm=NONE
-hi Title guifg=#ff0000 ctermfg=9 guibg=#00ff00 ctermbg=10 gui=NONE cterm=NONE
+hi Title guifg=#a29acb ctermfg=140 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi Visual guifg=NONE ctermfg=NONE guibg=#eceafa ctermbg=255 gui=NONE cterm=NONE
 hi VisualNOS guifg=#ff0000 ctermfg=9 guibg=#00ff00 ctermbg=10 gui=NONE cterm=NONE
 hi WarningMsg guifg=#ff0000 ctermfg=9 guibg=#00ff00 ctermbg=10 gui=NONE cterm=NONE
