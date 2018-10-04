@@ -1,9 +1,9 @@
 " ===============================================================
 " soft-era
-" 
-" URL: https://github.com/ngscheurich/soft-era-vim
+"
+" URL: https://github.com/soft-aesthetic/soft-era-vim
 " Author: Colors <@animalphase> / Port <@ngscheurich>
-" Last Change: 2018/04/12 17:52
+" Last Change: 2018/10/04 20:25
 " ===============================================================
 
 set background=light
@@ -50,9 +50,9 @@ hi SpellCap guifg=#ff0000 ctermfg=9 guibg=#00ff00 ctermbg=10 gui=NONE cterm=NONE
 hi SpellRare guifg=#ff0000 ctermfg=9 guibg=#00ff00 ctermbg=10 gui=NONE cterm=NONE
 hi StatusLine guifg=#ff0000 ctermfg=9 guibg=#00ff00 ctermbg=10 gui=NONE cterm=NONE
 hi StatusLineNC guifg=#ff0000 ctermfg=9 guibg=#00ff00 ctermbg=10 gui=NONE cterm=NONE
-hi TabLine guifg=#ff0000 ctermfg=9 guibg=#00ff00 ctermbg=10 gui=NONE cterm=NONE
-hi TabLineFill guifg=#ff0000 ctermfg=9 guibg=#00ff00 ctermbg=10 gui=NONE cterm=NONE
-hi TabLineSel guifg=#ff0000 ctermfg=9 guibg=#00ff00 ctermbg=10 gui=NONE cterm=NONE
+hi TabLine guifg=#a29acb ctermfg=140 guibg=#cfc8f4 ctermbg=189 gui=NONE cterm=NONE
+hi TabLineFill guifg=#a29acb ctermfg=140 guibg=#cfc8f4 ctermbg=189 gui=NONE cterm=NONE
+hi TabLineSel guifg=#948484 ctermfg=102 guibg=#f9f5f5 ctermbg=255 gui=NONE cterm=NONE
 hi Title guifg=#ff0000 ctermfg=9 guibg=#00ff00 ctermbg=10 gui=NONE cterm=NONE
 hi Visual guifg=NONE ctermfg=NONE guibg=#eceafa ctermbg=255 gui=NONE cterm=NONE
 hi VisualNOS guifg=#ff0000 ctermfg=9 guibg=#00ff00 ctermbg=10 gui=NONE cterm=NONE
